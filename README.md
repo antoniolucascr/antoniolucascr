@@ -1,6 +1,5 @@
 ### Olá, sou Antônio Lucas 👋
 
-- 🔭 Atualmente estudo no IFSC Lages
 - 🌱 Estou estudando Ciências da Computação
 - 🤔 Estou procurando por ajuda em Java e HTML
 - 💬 Pergunte sobre os meus hobbies
