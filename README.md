@@ -1,7 +1,7 @@
 ### Hello, I'm Antônio Lucas 👋
 
 - 🌱 I'm studying Computer Science
-- 🤔 I'm learning Java and HTML
+- 🤔 I'm learning Java, HTML, CSS and Javascript
 - 🇧🇷  Brazilian straight male
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniolucascr&theme=chartreuse-dark&show_icons=true)
