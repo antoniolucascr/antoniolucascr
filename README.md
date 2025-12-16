@@ -1,7 +1,7 @@
 ### Hello there, I'm Antônio Lucas 👋
 
 - 🌱 I'm studying Informatic Engineering
-- 🤔 I'm learning Java and Python
+- 🤔 I'm learning Java, Python and C
 - 🇧🇷  Brazilian straight male
 - 🎮 I'm interested in game development
 
