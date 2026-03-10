@@ -2,7 +2,6 @@
 
 - 🌱 I'm studying Informatic Engineering
 - 🤔 I'm learning Java, Python and C
-- 🇧🇷  Brazilian male
 - 🎮 I'm interested in game development
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniolucascr&theme=chartreuse-dark&show_icons=true)
